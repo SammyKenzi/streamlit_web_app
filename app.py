@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.title('初めてのWebアプリ')
+st.title('初めてのWebアプリ!')
 st.caption('これはテストアプリです')
 st.subheader('自己紹介')
 st.text('プログラミングの勉強してます！\n'
